@@ -5,4 +5,4 @@ c. view attendance
 
 Non functional requirements
 a. security check
-b. scalability
+
