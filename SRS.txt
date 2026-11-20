@@ -2,3 +2,7 @@ I am writing all the functional and non functional requirements of SRS functiona
 a. login
 b. Placement portal
 c. view attendance
+
+Non functional requirements
+a. security check
+b. scalability
